@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.kot{float: left;
+    margin: 10px;
+    border: 10px solid lightgray;}
+.a{padding: 20px;
+   background-color: orange;
+  margin: 10px;
+   /* margin-left: 25px;
+   margin-top: 5px;
+   margin-bottom: 5px; */
+ color: black;
+ text-decoration: unset;
+ text-align: center;}
+.container{
+          display: flex;
+          background-color: lightgray;
+          justify-content: center;
+width:100%;
+}
+a:hover{text-decoration: underline;}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+body{font-family:'Open Sans', sans-serif; ;}
+.class{margin-top: 400px;
+      text-align: center;}
